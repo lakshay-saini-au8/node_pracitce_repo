@@ -27,3 +27,7 @@ Delete:-/post/:postId
 
 to update post with id
 Patch:-/post/:postId
+
+# Working
+
+![file](https://github.com/lakshay-saini-au8/node_pracitce_repo/blob/main/deved_node/final_5fab6caaafefb500b84451d2_157459.gif)
