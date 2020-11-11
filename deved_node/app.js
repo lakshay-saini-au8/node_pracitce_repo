@@ -4,7 +4,7 @@ require("dotenv").config({ path: __dirname + "/.env" });
 const mongooes = require("mongoose");
 
 const postsRoute = require("./routes/posts");
-
+app.use(express.json());
 app.use("/posts", postsRoute);
 // ROUTES
 app.get("/", (req, res) => {
