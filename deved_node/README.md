@@ -1,7 +1,7 @@
 
 # Deved_node
 
-In this i tried to make an Api and follow Dev Ed youtube to take the help
+In this i tried to make an Api (mongodb,node) and follow Dev Ed youtube to take the help
 
 
  
