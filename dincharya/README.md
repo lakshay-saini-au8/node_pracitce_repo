@@ -11,6 +11,7 @@ npm install
 
 npm run dev
 
-### Routes 
+# Working
 
+![file](https://github.com/lakshay-saini-au8/node_pracitce_repo/blob/main/dincharya/final.gif)
 
